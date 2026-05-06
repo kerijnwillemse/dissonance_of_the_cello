@@ -1,9 +1,9 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
-project:
+project: The Dissonance Of The Cello
   title: TU Delft's JB Starterkit
   # description:
-  keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
+  keywords: [Dissonance, Cello, TU Delft, Spectral analysis]
 
   github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
   date: 2026-01-31
