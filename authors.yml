@@ -3,17 +3,17 @@ project:
   
   authors:
     - id: student
-      name: student without a name yet
+      name: Kerijn Willemse
       affiliations:
         - tud
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: prof. dr. Rolf Hut
       affiliations:
         - tud
     - id: committee-1
-      name: Prof. Dr. C. Examiner
+      name: Prof. Dr. C. Cynthia Liem
       affiliations:
         - tud
     - id: committee-2
