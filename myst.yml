@@ -5,7 +5,7 @@ project: The Dissonance Of The Cello
   # description:
   keywords: [Dissonance, Cello, TU Delft, Spectral analysis]
 
-  github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
+  github: https://kerijnwillemse.github.io/dissonance_of_the_cello/ # change this to your own repository
   date: 2026-01-31
   thumbnail: style/thumbnail.jpg
   numbering: 
